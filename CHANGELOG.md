@@ -1,6 +1,9 @@
 Changelog
 =========
 
+## 0.4.8.1 (2018-11-24)
+ - [feature] Enable Google App Engine support
+
 ## 0.4.8 (2017-09-15)
  - [feature] Add ResourceExpiredError exception (#48)
 
